@@ -35,7 +35,7 @@ const Header = () => {
             </div>
         </div>
     
-        <div className='text-center bg-slate-500  w-[30%] mx-auto opacity-70'>
+        <div className='text-center bg-slate-500 w-[70%] lg:w-[30%] mx-auto opacity-70'>
             <p className='font-bold text-xl'>For more inquiries, please contact:</p>
             <p className='font-bold text-xl'>08039176041</p>
         </div>
